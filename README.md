@@ -5,7 +5,7 @@ The Master provides an intuitive dashboard for :
 
 - Monitor the health of workstations (system statistics, online status, etc.)
 
-- Schedule or execute remote actions (Windows update, application deployment, reboot, shutdown, etc.)
+- Schedule or execute remote actions (Windows update, executing commands, application deployment, reboot, shutdown, etc.)
 
 - EZ Connect to machines via MSTSC or other integrated tools.
 
